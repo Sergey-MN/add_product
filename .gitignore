@@ -1,0 +1,8 @@
+.env
+/venv
+.ruff_cache
+app.log
+pyproject.toml
+.idea
+*.pyc
+__pycache__/
